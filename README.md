@@ -1,4 +1,4 @@
-# Deploy a Java App on DigitalOcean
+# Create Server and Deploy Application on DigitalOcean
 
 Provisioned a Linux server on DigitalOcean and deployed a Java Gradle application to it, following security best practices.
 
