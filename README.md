@@ -2,7 +2,10 @@
 
 Provisioned a Linux server on DigitalOcean and deployed a Java Gradle application to it, following security best practices.
 
+![Tech](docs/cloud_iaas_tech.png)
+
 **Tech:** DigitalOcean · Linux · Java · Gradle
+
 
 ![Architecture diagram](docs/architecture.drawio.png)
 
@@ -12,6 +15,7 @@ Provisioned a Linux server on DigitalOcean and deployed a Java Gradle applicatio
 - Set up a dedicated non-root Linux user and SSH key authentication
 - Built the app with Gradle and deployed the JAR to the server
 - Ran the application as the non-root user
+
 
 ## Skills demonstrated
 
