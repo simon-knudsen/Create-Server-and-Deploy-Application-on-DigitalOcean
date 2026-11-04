@@ -4,7 +4,7 @@ Provisioned a Linux server on DigitalOcean and deployed a Java Gradle applicatio
 
 **Tech:** DigitalOcean · Linux · Java · Gradle
 
-![Architecture diagram](docs/architecture.png)
+![Architecture diagram](docs/architecture.drawio.png)
 
 ## What I did
 
