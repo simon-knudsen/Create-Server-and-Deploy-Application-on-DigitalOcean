@@ -4,10 +4,11 @@ Provisioned a Linux server on DigitalOcean and deployed a Java Gradle applicatio
 
 ![Tech](docs/cloud_iaas_tech.png)
 
-**Tech:** DigitalOcean · Linux · Java · Gradle
 
+## Architecture
 
 ![Architecture diagram](docs/architecture.drawio.png)
+
 
 ## What I did
 
